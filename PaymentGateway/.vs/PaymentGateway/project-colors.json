@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9eae06e-eb5d-46ad-acf3-0bff6cc6ff2d": {
+      "ProjectGuid": "d9eae06e-eb5d-46ad-acf3-0bff6cc6ff2d",
+      "DisplayName": "PaymentGateway",
+      "ColorIndex": 0
+    },
+    "0dbbd5f4-ab99-4371-bea9-01bace1c4afd": {
+      "ProjectGuid": "0dbbd5f4-ab99-4371-bea9-01bace1c4afd",
+      "DisplayName": "PaymentGatewayModel",
+      "ColorIndex": 1
+    },
+    "3ac35afc-76b6-4278-8d1c-0b8f826694fa": {
+      "ProjectGuid": "3ac35afc-76b6-4278-8d1c-0b8f826694fa",
+      "DisplayName": "PaymentGatewayRepository",
+      "ColorIndex": 2
+    },
+    "444c27bc-30b6-4cca-ba9b-6c05aa0f070e": {
+      "ProjectGuid": "444c27bc-30b6-4cca-ba9b-6c05aa0f070e",
+      "DisplayName": "PaymentGatewayService",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

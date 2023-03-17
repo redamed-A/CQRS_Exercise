@@ -1,0 +1,9 @@
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\bin\Debug\netcoreapp3.0\PaymentGatewayModel.deps.json
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\bin\Debug\netcoreapp3.0\PaymentGatewayModel.dll
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\bin\Debug\netcoreapp3.0\PaymentGatewayModel.pdb
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.AssemblyInfoInputs.cache
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.AssemblyInfo.cs
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.csproj.CoreCompileInputs.cache
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.dll
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayModel\obj\Debug\netcoreapp3.0\PaymentGatewayModel.pdb

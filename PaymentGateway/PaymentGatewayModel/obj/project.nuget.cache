@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOnYIB6dx8NSGOgYFvdz+aO6hsEltTXLrAF7Iv9fRUB1i3ptrHq3UA0hBrHgA0AbGuY2dborsxgjspnPZunWhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r.aaslaoui\\Documents\\GitHub\\CQRS_Exercise\\PaymentGateway\\PaymentGatewayModel\\PaymentGatewayModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r.aaslaoui\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

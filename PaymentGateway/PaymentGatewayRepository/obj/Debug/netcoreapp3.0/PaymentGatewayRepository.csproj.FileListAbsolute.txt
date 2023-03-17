@@ -1,0 +1,16 @@
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayRepository.deps.json
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayRepository.runtimeconfig.json
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayRepository.runtimeconfig.dev.json
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayRepository.dll
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayRepository.pdb
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayModel.dll
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\bin\Debug\netcoreapp3.0\PaymentGatewayModel.pdb
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.csproj.AssemblyReference.cache
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.AssemblyInfoInputs.cache
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.AssemblyInfo.cs
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.csproj.CoreCompileInputs.cache
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.csproj.CopyComplete
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.dll
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.pdb
+C:\Users\r.aaslaoui\Documents\GitHub\CQRS_Exercise\PaymentGateway\PaymentGatewayRepository\obj\Debug\netcoreapp3.0\PaymentGatewayRepository.genruntimeconfig.cache
